@@ -1,2 +1,2 @@
 # Case-Study
-projects
+  We invite you to delve into our comprehensive case studies, which showcase the breadth and depth of our projects. Each case study provides detailed insights into our problem-solving approaches, methodologies, and the impact of our solutions. By exploring these files, you'll gain a deeper understanding of our work, the challenges we've overcome, and the innovative strategies we've employed. We hope these case studies inspire and inform your own projects. Click on the links below to start exploring!
